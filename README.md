@@ -1,2 +1,2 @@
-# unoffial-inmet-api
+# unofficial-inmet-api
 Unofficial API for Brazilian INMET (Instituto Nacional de Meteorologia)
