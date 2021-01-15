@@ -1,0 +1,42 @@
+{
+  "name": "unofficial-inmet-api",
+  "version": "0.1.0",
+  "description": "Unofficial API for Brazilian INMET (Instituto Nacional de Meteorologia)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weslleih/unofficial-inmet-api.git"
+  },
+  "keywords": [
+    "API",
+    "INMET",
+    "Clima",
+    "Meteorolgia"
+  ],
+  "author": "Wesllei H Rosario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weslleih/unofficial-inmet-api/issues"
+  },
+  "homepage": "https://github.com/weslleih/unofficial-inmet-api#readme",
+  "engines": {
+    "node": "14.15.x"
+  },
+  "type": "module",
+  "dependencies": {
+    "chai-as-promised": "^7.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "mocha": "^8.2.1"
+  }
+}
